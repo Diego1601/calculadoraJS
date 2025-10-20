@@ -1,3 +1,3 @@
-#CALCULADORA JAVASCRIPT PURO
+# CALCULADORA JAVASCRIPT PURO
 
-##em andamento
+## Status: em andamento
